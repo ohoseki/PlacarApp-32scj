@@ -15,8 +15,12 @@ class ClubesActivity : AppCompatActivity() {
         BtIniciar.setOnClickListener { minhaView ->
             irParaOutraTela()
         }
-
     }
+
+
+
+
+    
 
     fun irParaOutraTela(){
         val proximaTela = Intent(this,PlacarActivity::class.java)

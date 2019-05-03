@@ -3,4 +3,7 @@
     <string name="title_club">Clubs</string>
     <string name="label_home">Home</string>
     <string name="label_visitante">Away</string>
+    <string name="message_to_share">The game %1$s and %2$s  %3$d and %4$d </string>
+
+
 </resources>

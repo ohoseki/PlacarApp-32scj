@@ -4,4 +4,5 @@
     <string name="title_club">Clubes</string>
     <string name="label_home">Time da Casa</string>
     <string name="label_visitante">Time Visitante</string>
+    <string name="message_to_share">O jogo Entre %1$s e %2$s foi %3$d a %4$d </string>
 </resources>
